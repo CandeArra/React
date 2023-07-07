@@ -12,12 +12,15 @@
 
 .enlace:hover{
     color:#cdcdcd;
-
 }
+
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+header{
     background-color: rgb(143, 45, 45);
 }
 
