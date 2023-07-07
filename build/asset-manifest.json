@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CandeArra/React/build/static/css/main.b98aea59.css",
+    "main.js": "/CandeArra/React/build/static/js/main.5cf198ac.js",
+    "index.html": "/CandeArra/React/build/index.html",
+    "main.b98aea59.css.map": "/CandeArra/React/build/static/css/main.b98aea59.css.map",
+    "main.5cf198ac.js.map": "/CandeArra/React/build/static/js/main.5cf198ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98aea59.css",
+    "static/js/main.5cf198ac.js"
+  ]
+}
