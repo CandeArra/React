@@ -1,0 +1,10 @@
+.cart{
+    font-size: 3rem;
+}
+
+span{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 7px;
+    color: rgb(0, 0, 0);
+}
